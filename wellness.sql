@@ -39,24 +39,25 @@ alter table termini add foreign key (zaposlenik) references zaposlenici(sifra);
 
 insert into klijenti(ime,prezime,email)
 values ('Ivan','Horvat','ivanhorvat@gmail.com'),
-('Ana','Marić','anamaric@gmail.com'),
-('Stjepan','Đuričić','stjepanduricic@gmail.com'),
+('Ana','Mariæ','anamaric@gmail.com'),
+('Stjepan','Ðurièiæ','stjepanduricic@gmail.com'),
 ('Anita','hvastek','anitahvastek@.com');
 
 
 insert into usluge(vrstausluge,trajanje,cijena)
-values ('sportskamasaža',1,49.99),
-('relaxmasaza',1,49.99),
+values ('masaža',1,49.99),
+('sportskamasaža',1,49.99),
 ('masazascetiriruke',1,99.99),
 ('masazasvrucimkamenjem',1,99.99);
+
 insert into zaposlenici(ime,prezime,strucnost)
-values ('Pero','Perić','fizioterapetut'),
-('Marija','Babić','fizioterapeut'),
-('Ivona','Papić','fizioterapeut'),
-('Marina','Sarić','fizioterapeut')
-;
+values ('Pero','Periæ','fizioterapetut'),
+('Marija','Babiæ','fizioterapeut'),
+('Ivona','Papiæ','fizioterapeut'),
+('Marina','Sariæ','fizioterapeut');
 
 insert into termini(datum,klijent,usluga,zaposlenik)
+
 values ('2024-05-21 16:00',1,1,1),
 ('2024-06-06 17:00',1,2,2),
 ('2024-06-21 12:00',2,3,3),
@@ -64,6 +65,3 @@ values ('2024-05-21 16:00',1,1,1),
 select* from klijenti;
 select* from usluge;
 select*from zaposlenici;
-select*from termini;
-
-
