@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\acer\\documents\\github\\ucenjewp4\\csharp\\ucenje\\ucenjecs\\e02varijabletipovipodatakaoperatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\e02varijabletipovipodatakaoperatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\acer\\documents\\github\\ucenjewp4\\csharp\\ucenje\\ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\acer\\documents\\github\\ucenjewp4\\csharp\\ucenje\\ucenjecs\\e01ulazizlaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD38E08-7B61-4DD1-8391-DE45F04E180B}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\e01ulazizlaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E02VarijableTipoviPodatakaoperatori.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\E02VarijableTipoviPodatakaoperatori.cs",
+              "RelativeDocumentMoniker": "UcenjeCS\\E02VarijableTipoviPodatakaoperatori.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\E02VarijableTipoviPodatakaoperatori.cs*",
+              "RelativeToolTip": "UcenjeCS\\E02VarijableTipoviPodatakaoperatori.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwDgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:11:44.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\Program.cs",
+              "RelativeDocumentMoniker": "UcenjeCS\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\Program.cs",
+              "RelativeToolTip": "UcenjeCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:34:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E01UlazIzlaz.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\E01UlazIzlaz.cs",
+              "RelativeDocumentMoniker": "UcenjeCS\\E01UlazIzlaz.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\UcenjeWP4\\CSHARP\\Ucenje\\UcenjeCS\\E01UlazIzlaz.cs",
+              "RelativeToolTip": "UcenjeCS\\E01UlazIzlaz.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA7wBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:15:21.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
